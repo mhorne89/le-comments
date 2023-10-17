@@ -1,0 +1,16 @@
+{
+  "name": "le-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Monkey",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1474.0",
+    "dotenv": "^16.3.1",
+    "node-schedule": "^2.1.1"
+  }
+}
